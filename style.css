@@ -1,0 +1,54 @@
+  body {
+    background-color: rgba(183, 118, 107, 0.711);
+
+  }
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    color: rgb(230, 71, 71);
+  }
+
+  nav a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+  }
+
+
+  footer {
+    background-color: lightgray;
+    text-align: center;
+    padding: 10px;
+  }
+  section {
+    border: 1px solid rgb(183, 0, 255);
+    margin: 50px;
+    padding:50px;
+  }
+  h2 {
+    
+    color: rgb(81, 0, 255);
+    font-family: roboto;
+    text-align: center;
+  }
+  h1 {
+    color: rgb(106, 83, 158);
+   }
+  div{
+    display: inline-block;
+    height: 150px;
+    width: 90%;
+  }
+  .img{
+    padding:100px 400px;
+
+  }
+  .video{
+    padding:20px 400px;
+  }
+  .form{
+    padding:20px 400px;
+  }
+  
+   
